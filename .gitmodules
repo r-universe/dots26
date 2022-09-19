@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MaOEA"]
-	path = MaOEA
-	url = https://github.com/dots26/maoea
-	shallow = true
-	registered = true
